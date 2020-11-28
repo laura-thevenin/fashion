@@ -1,0 +1,8 @@
+.btn-brown{
+	background-color: rgb(215,174,133);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Open Sans';
+}
